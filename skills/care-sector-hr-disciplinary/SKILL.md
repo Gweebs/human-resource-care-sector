@@ -11,7 +11,7 @@ Work in the project style unless the user gives different instructions: calm, di
 
 ## Core Rules
 
-- Keep outputs anonymised unless the user explicitly asks for private local drafting with names included. Do not include provider names, care home names, author names, staff names, resident names, family names, addresses, direct contact details, or internal identifiers in reusable repository content.
+- Keep reusable repository content anonymised. For private local drafting, the assistant may use the user's supplied context or remembered details, including the user's name, provider name, care home names, staff names, resident names, or family names, only where the user asks for a named draft. Do not commit, publish, or add those identifiers to reusable repository files unless the user explicitly instructs that specific publication.
 - Treat the user's staff handbook or local policy as the local rule source where provided.
 - Use Acas as the main UK fairness benchmark.
 - Use Skills for Care and CQC context for care-sector supervision, safer employment, safeguarding, records, competence, and safe care.
