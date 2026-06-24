@@ -1,4 +1,4 @@
-# Master index — HR disciplinary process research pack
+# Master index - HR disciplinary process research pack
 
 ## Purpose
 Research pack covering the full disciplinary journey from welfare meeting to dismissal, with UK best-practice framing.
@@ -20,6 +20,7 @@ Research pack covering the full disciplinary journey from welfare meeting to dis
 | File | Purpose |
 |---|---|
 | `README.md` | Scope, intended use, and directory structure |
+| `INSTALLATION.md` | ChatGPT and Codex installation guide |
 | `AGENTS.md` | Project working instructions |
 | `process/master-brief.md` | Consolidated HR disciplinary brief |
 | `process/summary.md` | Short summary |

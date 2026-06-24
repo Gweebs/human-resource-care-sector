@@ -110,12 +110,13 @@ In care settings, some concerns need faster escalation. Examples include safegua
 If you are new to the repository, read these in order:
 
 1. `INDEX.md`
-2. `process/master-brief.md`
-3. `process/process-map.md`
-4. `process/decision-tree.md`
-5. `care-sector/care-sector-master-brief.md`
-6. `care-sector/care-sector-version.md`
-7. `figma/figma-disciplinary-process-guide.md`
+2. `INSTALLATION.md`
+3. `process/master-brief.md`
+4. `process/process-map.md`
+5. `process/decision-tree.md`
+6. `care-sector/care-sector-master-brief.md`
+7. `care-sector/care-sector-version.md`
+8. `figma/figma-disciplinary-process-guide.md`
 
 If you only need the practical manager version, start with:
 
