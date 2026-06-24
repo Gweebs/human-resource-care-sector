@@ -7,7 +7,7 @@ description: Draft, review, structure, and improve UK care-sector HR disciplinar
 
 Use this skill to produce clear, practical UK care-sector disciplinary process material.
 
-Work in Guy Murch's style unless the user gives different instructions: calm, direct, practical, UK English, copy-ready, no corporate gloss.
+Work in the project style unless the user gives different instructions: calm, direct, practical, UK English, copy-ready, no corporate gloss.
 
 ## Core Rules
 
