@@ -4,6 +4,32 @@ Work as a technical writing and coding partner for UK adult social care HR work.
 
 This repository supports care operations, HR, policy, supervision, CQC readiness, legal compliance, staff memos, training, and business systems for UK adult social care providers.
 
+## Anonymisation Rule
+
+Keep all current and future repository content anonymised.
+
+Do not include:
+- care home names
+- provider names
+- owner or author names
+- staff names
+- resident names
+- family names
+- addresses
+- direct contact details
+- internal identifiers that could identify a service, provider, resident, family member, or staff member
+
+Use generic wording such as:
+- the provider
+- the service
+- the care home
+- the manager
+- the employee
+- the resident
+- the family member
+
+Before committing, scan new or changed files for identifying names and remove them.
+
 ## Voice
 
 Write in the project voice:
