@@ -13,6 +13,7 @@ Research pack covering the full disciplinary journey from welfare meeting to dis
 | `templates/` | Formal policy and template wording |
 | `figma/` | Figma-ready guide and design structure |
 | `sources/` | Source notes and reference links |
+| `skills/` | Reusable Codex skill for care-sector HR disciplinary drafting |
 
 ## Files
 
@@ -48,6 +49,8 @@ Research pack covering the full disciplinary journey from welfare meeting to dis
 | `figma/figma-disciplinary-process-guide.md` | Figma-ready disciplinary guide |
 | `sources/index.md` | Source index |
 | `sources/skills-for-care-managing-people.md` | Skills for Care source note for supervision, safer employment, and identifying concerns |
+| `skills/care-sector-hr-disciplinary/SKILL.md` | Reusable Codex skill entry point |
+| `skills/care-sector-hr-disciplinary/references/` | Skill reference files |
 
 ## Care-sector source emphasis
 The care-sector sections and files should be read alongside:

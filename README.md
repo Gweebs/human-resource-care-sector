@@ -36,6 +36,7 @@ Care-sector material is merged into the main pack and supported by `care-sector/
 | `templates/` | Policy wording and formal disciplinary template |
 | `figma/` | Figma-ready process guide |
 | `sources/` | Source notes for ACAS, GOV.UK, CIPD, nidirect, and Skills for Care |
+| `skills/` | Reusable Codex skill for care-sector HR disciplinary drafting |
 
 ## Start here
 
@@ -43,3 +44,9 @@ Care-sector material is merged into the main pack and supported by `care-sector/
 2. `process/master-brief.md`
 3. `care-sector/care-sector-master-brief.md`
 4. `figma/figma-disciplinary-process-guide.md`
+
+## Reusable skill
+
+The reusable skill is in `skills/care-sector-hr-disciplinary/`.
+
+It can be copied or installed into a Codex skills folder for use as `$care-sector-hr-disciplinary`.
