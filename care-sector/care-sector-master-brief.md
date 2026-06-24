@@ -38,10 +38,10 @@ Skills for Care guidance should be used as a sector source for supervision, peop
 ## Files to read next
 - `care-sector-version.md`
 - `care-industry-examples.md`
-- `policy-template-formal.md`
-- `decision-tree.md`
-- `manager-faq.md`
-- `flowchart.md`
+- `../templates/policy-template-formal.md`
+- `../process/decision-tree.md`
+- `../process/manager-faq.md`
+- `../process/flowchart.md`
 
 ## Handbook-aligned notes
 The staff handbook used by the homes pack contains formal disciplinary, capability, appeal, whistleblowing, termination, record accuracy, and alcohol/drugs at work provisions. These should be treated as operationally relevant examples, especially for care settings where record integrity and resident safety matter.

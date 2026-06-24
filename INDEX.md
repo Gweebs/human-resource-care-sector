@@ -3,33 +3,49 @@
 ## Purpose
 Research pack covering the full disciplinary journey from welfare meeting to dismissal, with UK best-practice framing.
 
+## Directory map
+
+| Directory | Purpose |
+|---|---|
+| `process/` | Core disciplinary process, decision tree, checklist, glossary, and UK framework |
+| `care-sector/` | Care-specific disciplinary guidance, examples, training notes, and investigation prompts |
+| `handbook/` | Staff handbook alignment, comparison notes, and case examples |
+| `templates/` | Formal policy and template wording |
+| `figma/` | Figma-ready guide and design structure |
+| `sources/` | Source notes and reference links |
+
 ## Files
 
 | File | Purpose |
 |---|---|
-| `README.md` | Scope and intended use |
-| `master-brief.md` | Consolidated HR disciplinary brief |
-| `summary.md` | Short summary |
-| `process-map.md` | End-to-end process map |
-| `flowchart.md` | Mermaid flowchart |
-| `best-practice.md` | Core best-practice principles |
-| `checklist.md` | Manager checklist (including care-sector checks) |
-| `caveats.md` | Research and legal caveats |
-| `glossary.md` | Key terms |
-| `uk-framework.md` | UK-specific reference frame |
-| `policy-template-formal.md` | Formal disciplinary policy template |
-| `policy-template.md` | Summary pointer to the formal template |
-| `decision-tree.md` | Step-by-step decision tree |
-| `manager-faq.md` | Manager-facing FAQ |
-| `app-manager-summary.md` | Short summary for managers/app use |
-| `care-sector-version.md` | Care-sector-specific disciplinary version |
-| `care-sector-master-brief.md` | Care-sector master brief |
-| `care-sector-investigations-guide.md` | Care-sector investigations guide |
-| `care-sector-manager-training.md` | Care-sector manager training notes |
-| `care-sector-quick-reference.md` | Care-sector quick reference |
-| `care-industry-examples.md` | Care-sector examples |
-| `handbook-integration-notes.md` | Staff handbook integration notes |
-| `handbook-redline-comparison.md` | Handbook vs pack comparison |
+| `README.md` | Scope, intended use, and directory structure |
+| `AGENTS.md` | Project working instructions |
+| `process/master-brief.md` | Consolidated HR disciplinary brief |
+| `process/summary.md` | Short summary |
+| `process/process-map.md` | End-to-end process map |
+| `process/flowchart.md` | Mermaid flowchart |
+| `process/best-practice.md` | Core best-practice principles |
+| `process/checklist.md` | Manager checklist, including care-sector checks |
+| `process/caveats.md` | Research and legal caveats |
+| `process/glossary.md` | Key terms |
+| `process/uk-framework.md` | UK-specific reference frame |
+| `process/decision-tree.md` | Step-by-step decision tree |
+| `process/manager-faq.md` | Manager-facing FAQ |
+| `process/app-manager-summary.md` | Short summary for managers/app use |
+| `templates/policy-template-formal.md` | Formal disciplinary policy template |
+| `templates/policy-template.md` | Summary pointer to the formal template |
+| `care-sector/care-sector-master-brief.md` | Care-sector master brief |
+| `care-sector/care-sector-version.md` | Care-sector-specific disciplinary version |
+| `care-sector/care-sector-investigations-guide.md` | Care-sector investigations guide |
+| `care-sector/care-sector-manager-training.md` | Care-sector manager training notes |
+| `care-sector/care-sector-quick-reference.md` | Care-sector quick reference |
+| `care-sector/care-industry-examples.md` | Care-sector examples |
+| `care-sector/care-home-manager-quick-guide.md` | Care-home manager quick guide |
+| `care-sector/care-sector-unified.md` | Care-sector read-first addendum |
+| `handbook/handbook-integration-notes.md` | Staff handbook integration notes |
+| `handbook/handbook-redline-comparison.md` | Handbook vs pack comparison |
+| `handbook/handbook-based-case-examples.md` | Handbook-based case examples |
+| `figma/figma-disciplinary-process-guide.md` | Figma-ready disciplinary guide |
 | `sources/index.md` | Source index |
 | `sources/skills-for-care-managing-people.md` | Skills for Care source note for supervision, safer employment, and identifying concerns |
 

@@ -1,9 +1,9 @@
 # Redline comparison — staff handbook vs disciplinary pack
 
 ## Handbook points already reflected in the pack
-- disciplinary procedures → covered in `process-map.md`, `policy-template-formal.md`, and `master-brief.md`
-- capability procedures → covered in `policy-template-formal.md`, `decision-tree.md`, and `master-brief.md`
-- appeal rights → covered in `process-map.md`, `checklist.md`, `manager-faq.md`, and `policy-template-formal.md`
+- disciplinary procedures → covered in `../process/process-map.md`, `../templates/policy-template-formal.md`, and `../process/master-brief.md`
+- capability procedures → covered in `../templates/policy-template-formal.md`, `../process/decision-tree.md`, and `../process/master-brief.md`
+- appeal rights → covered in `../process/process-map.md`, `../process/checklist.md`, `../process/manager-faq.md`, and `../templates/policy-template-formal.md`
 - grievance procedure → noted in the UK framework and source index, but kept separate from disciplinary handling
 - whistleblowing → captured as a separate concern that should not be confused with misconduct retaliation
 - termination of employment → covered as a fair outcome at the end of the process

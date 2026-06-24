@@ -4,7 +4,7 @@
 This addendum merges the care-sector material into the main HR disciplinary pack. It is the read-first care-specific section for regulated social care settings.
 
 ## Read in this order
-1. `master-brief.md`
+1. `../process/master-brief.md`
 2. `care-sector-master-brief.md`
 3. `care-sector-version.md`
 4. `care-sector-investigations-guide.md`

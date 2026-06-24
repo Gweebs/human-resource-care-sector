@@ -46,12 +46,12 @@ In care settings, disciplinary action should be handled with extra attention to:
 - `process-map.md`
 - `best-practice.md`
 - `checklist.md`
-- `policy-template-formal.md`
+- `../templates/policy-template-formal.md`
 - `decision-tree.md`
 - `manager-faq.md`
-- `care-industry-examples.md`
+- `../care-sector/care-industry-examples.md`
 - `uk-framework.md`
-- `care-sector-version.md`
+- `../care-sector/care-sector-version.md`
 
 ## Handbook-aligned notes
 The staff handbook used by the homes pack contains formal disciplinary, capability, appeal, whistleblowing, termination, record accuracy, and alcohol/drugs at work provisions. These should be treated as operationally relevant examples, especially for care settings where record integrity and resident safety matter.
