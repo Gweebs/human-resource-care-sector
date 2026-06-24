@@ -11,7 +11,7 @@ Research pack covering the full disciplinary journey from welfare meeting to dis
 | `care-sector/` | Care-specific disciplinary guidance, examples, training notes, and investigation prompts |
 | `handbook/` | Staff handbook alignment, comparison notes, and case examples |
 | `templates/` | Formal policy and template wording |
-| `figma/` | Figma-ready guide and design structure |
+| `figma/` | Figma-ready guide, design export, and design structure |
 | `sources/` | Source notes and reference links |
 | `skills/` | Reusable Codex skill for care-sector HR disciplinary drafting |
 
@@ -47,6 +47,7 @@ Research pack covering the full disciplinary journey from welfare meeting to dis
 | `handbook/handbook-redline-comparison.md` | Handbook vs pack comparison |
 | `handbook/handbook-based-case-examples.md` | Handbook-based case examples |
 | `figma/figma-disciplinary-process-guide.md` | Figma-ready disciplinary guide |
+| `figma/Disciplinary Process Guide.make` | Design export for the disciplinary process guide |
 | `sources/index.md` | Source index |
 | `sources/skills-for-care-managing-people.md` | Skills for Care source note for supervision, safer employment, and identifying concerns |
 | `skills/care-sector-hr-disciplinary/SKILL.md` | Reusable Codex skill entry point |

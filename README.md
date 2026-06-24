@@ -101,7 +101,7 @@ In care settings, some concerns need faster escalation. Examples include safegua
 | `care-sector/` | Care-specific guidance, examples, manager notes, safeguarding prompts, supervision points, and investigation checks |
 | `handbook/` | Staff handbook alignment, comparison notes, and case examples |
 | `templates/` | Formal disciplinary policy wording and template pointers |
-| `figma/` | Figma-ready guide and suggested design structure |
+| `figma/` | Figma-ready guide, `.make` design export, and suggested design structure |
 | `sources/` | Source notes for Acas, GOV.UK, CIPD, nidirect, and Skills for Care |
 | `skills/` | Reusable Codex skill for care-sector HR disciplinary drafting |
 
@@ -145,6 +145,7 @@ If you are creating a policy or procedure, start with:
 | `handbook/handbook-integration-notes.md` | How the process links to handbook provisions |
 | `templates/policy-template-formal.md` | Formal disciplinary policy template |
 | `figma/figma-disciplinary-process-guide.md` | Guide structured for Figma upload |
+| `figma/Disciplinary Process Guide.make` | Design export for the disciplinary process guide |
 | `sources/skills-for-care-managing-people.md` | Skills for Care source note |
 | `skills/care-sector-hr-disciplinary/SKILL.md` | Reusable AI skill entry point |
 
@@ -189,6 +190,7 @@ Record:
 Use:
 
 - `figma/figma-disciplinary-process-guide.md`
+- `figma/Disciplinary Process Guide.make`
 - `skills/care-sector-hr-disciplinary/references/process.md`
 - `skills/care-sector-hr-disciplinary/references/templates-and-outputs.md`
 
