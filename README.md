@@ -6,26 +6,6 @@ It is designed for practical use in care homes, domiciliary care, supported livi
 
 The aim is simple: help managers deal with staff concerns early, fairly, consistently, and with good records.
 
-## Anonymisation Standard
-
-This repository must stay anonymous.
-
-Do not add care home names, provider names, owner names, author names, staff names, resident names, family names, addresses, direct contact details, or internal identifiers that could identify a real service or person.
-
-Use generic wording instead:
-
-| Do not use | Use instead |
-|---|---|
-| Named provider | the provider |
-| Named care home | the service or the care home |
-| Named owner or author | the author or the project maintainer |
-| Named manager | the manager |
-| Named staff member | the employee or staff member |
-| Named resident | the resident |
-| Named family member | the family member |
-
-Before adding or committing material, check that files are anonymised.
-
 ## What This Repository Is For
 
 Use this repository to support:
