@@ -34,6 +34,7 @@ Research pack covering the full disciplinary journey from welfare meeting to dis
 | `process/decision-tree.md` | Step-by-step decision tree |
 | `process/manager-faq.md` | Manager-facing FAQ |
 | `process/app-manager-summary.md` | Short summary for managers/app use |
+| `process/absence-management-and-bradford-factor.md` | Absence review guidance using the Bradford Factor as a review prompt, not a disciplinary trigger |
 | `templates/policy-template-formal.md` | Formal disciplinary policy template |
 | `templates/policy-template.md` | Summary pointer to the formal template |
 | `care-sector/care-sector-master-brief.md` | Care-sector master brief |

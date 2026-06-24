@@ -34,6 +34,8 @@ If it is choice, refusal, dishonesty, unsafe action, poor attitude, or rule brea
 
 If it is a skills gap, training need, health issue, or genuine inability, it is usually capability or welfare first.
 
+For repeated short-term absence, a Bradford Factor score may be used as an absence review prompt. It should not automatically trigger disciplinary action. Check welfare, health, disability, pregnancy, mental health, caring responsibilities, work-related causes, reasonable adjustments, and whether the employee followed the absence reporting procedure before deciding the route.
+
 ## Record Of Conversation
 
 A record of conversation is an early management record. It is not a formal disciplinary sanction.

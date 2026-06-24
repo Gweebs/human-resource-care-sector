@@ -8,9 +8,13 @@
 - Yes → welfare meeting / coaching / supervision
 - No → go to C
 
+For repeated short-term absence, use `process/absence-management-and-bradford-factor.md` as a review prompt. A Bradford Factor score should start an absence review, not automatic disciplinary action.
+
 ## C. Is there enough information to understand the issue?
 - No → fact-finding / investigation
 - Yes → go to D
+
+For absence concerns, check whether the facts point to welfare, health, disability, pregnancy, mental health, caring responsibilities, work-related causes, capability, or conduct before choosing the route.
 
 ## D. Is the issue misconduct, capability, or serious breach?
 - Misconduct/capability → formal disciplinary route

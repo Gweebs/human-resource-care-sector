@@ -36,6 +36,7 @@ Use this repository to support:
 - supervision and record keeping
 - matters of concern
 - records of conversation
+- absence review and Bradford Factor guidance
 - fact-finding
 - disciplinary investigations
 - disciplinary hearings
@@ -158,6 +159,7 @@ If you are creating a policy or procedure, start with:
 | `process/process-map.md` | Step-by-step process map |
 | `process/decision-tree.md` | Decision points for escalation |
 | `process/checklist.md` | Manager checklist |
+| `process/absence-management-and-bradford-factor.md` | Absence review and Bradford Factor guidance |
 | `process/glossary.md` | Key terms |
 | `care-sector/care-sector-master-brief.md` | Care-sector disciplinary overview |
 | `care-sector/care-sector-investigations-guide.md` | Investigation evidence and care-specific questions |
@@ -181,6 +183,7 @@ Ask:
 - Is this welfare, conduct, capability, safeguarding, grievance, or whistleblowing?
 - Is there an immediate resident safety issue?
 - Is the concern minor, repeated, unclear, serious, or disputed?
+- Is this an absence pattern that needs welfare review before any formal route?
 - What evidence exists?
 - Has support or supervision already happened?
 - Is formal action proportionate?
