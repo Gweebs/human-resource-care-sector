@@ -29,6 +29,57 @@ The score helps identify when a manager should hold a recorded absence review. T
 
 The review period should be set out in the absence policy. A rolling 52-week period is commonly used, but the provider should check its own policy wording before using it.
 
+## Worked Examples
+
+The same total number of absence days can produce a very different score depending on how often the absence happens.
+
+| Pattern | Calculation | Score | What it shows |
+|---|---:|---:|---|
+| 1 absence spell totalling 10 days | `1 x 1 x 10` | 10 | One longer absence. Usually points to welfare, recovery, medical evidence, or return-to-work support. |
+| 2 absence spells totalling 10 days | `2 x 2 x 10` | 40 | Some repetition. Review the reasons and check support needs. |
+| 5 absence spells totalling 10 days | `5 x 5 x 10` | 250 | Frequent short-term absence. A recorded review is likely needed. |
+| 10 absence spells totalling 10 days | `10 x 10 x 10` | 1,000 | High frequency. Check welfare, equality risks, reporting compliance, and service impact before deciding next steps. |
+
+## Quick Reference Chart
+
+This chart shows common scores. It is for reference only. The score should prompt a fair review, not an automatic sanction.
+
+| Absence spells | 1 total day | 2 total days | 3 total days | 5 total days | 7 total days | 10 total days | 14 total days | 20 total days |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 1 | 2 | 3 | 5 | 7 | 10 | 14 | 20 |
+| 2 | 4 | 8 | 12 | 20 | 28 | 40 | 56 | 80 |
+| 3 | 9 | 18 | 27 | 45 | 63 | 90 | 126 | 180 |
+| 4 | 16 | 32 | 48 | 80 | 112 | 160 | 224 | 320 |
+| 5 | 25 | 50 | 75 | 125 | 175 | 250 | 350 | 500 |
+| 6 | 36 | 72 | 108 | 180 | 252 | 360 | 504 | 720 |
+| 7 | 49 | 98 | 147 | 245 | 343 | 490 | 686 | 980 |
+| 8 | 64 | 128 | 192 | 320 | 448 | 640 | 896 | 1,280 |
+| 9 | 81 | 162 | 243 | 405 | 567 | 810 | 1,134 | 1,620 |
+| 10 | 100 | 200 | 300 | 500 | 700 | 1,000 | 1,400 | 2,000 |
+
+## Reference Bands
+
+These bands are not legal thresholds. They are a practical guide for deciding how closely to review the absence record.
+
+| Score | Suggested management response | Keep in mind |
+|---:|---|---|
+| 0 to 49 | Normal return-to-work record and informal support if needed. | Check any early welfare concern. |
+| 50 to 124 | Review in supervision or a welfare meeting if there is a pattern. | Check stress, rota fit, caring responsibilities, and work-related causes. |
+| 125 to 249 | Hold a recorded absence review. | Check disability, pregnancy, mental health, reasonable adjustments, and occupational health advice. |
+| 250 to 499 | Consider a matter of concern if absence is repeated and support has not resolved it. | Do not treat the score as misconduct. Check the cause first. |
+| 500+ | Senior manager or HR review before deciding next steps. | Formal action should only be considered where evidence supports it and the process is fair. |
+
+## Pattern Chart
+
+| Pattern seen | Likely first route | What to check |
+|---|---|---|
+| One longer absence | Welfare or capability support | Fit note, return-to-work plan, occupational health, phased return, adjustments. |
+| Frequent short absences with clear health reason | Welfare review | Disability, pregnancy, mental health, long-term condition, treatment pattern, reasonable adjustments. |
+| Frequent short absences around rota pressure | Welfare or supervision | Shift pattern, fatigue, travel, caring responsibilities, workload, flexible working. |
+| Frequent short absences with poor reporting | Record of conversation or fact-finding | Whether the employee understood and followed the absence reporting procedure. |
+| Absence reason appears false or inconsistent | Fact-finding | Evidence, employee explanation, records, fairness, and whether misconduct may be involved. |
+| Absence affects safe staffing or handover | Welfare review plus service risk review | Resident safety, staffing contingency, handover impact, supervision and support. |
+
 ## How To Use It
 
 | Stage | Use |
