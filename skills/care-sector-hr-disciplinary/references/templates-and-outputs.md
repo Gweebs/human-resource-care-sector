@@ -13,6 +13,76 @@ Use this when drafting documents, letters, guides, forms, Figma-ready content, o
 - Avoid long legal explanation unless needed.
 - End with the next action.
 
+## Welfare Meeting Record Template
+
+Use a welfare meeting record where the issue appears to involve health, stress, absence, work impact, pregnancy, disability, mental health, caring responsibilities, reasonable adjustments, or support needs.
+
+Do not treat the meeting as a disciplinary meeting. Keep conduct, capability, safeguarding, grievance, and whistleblowing routes separate.
+
+Fields:
+- Employee name:
+- Job role:
+- Service:
+- Manager:
+- Date:
+- Time:
+- Location:
+- People present:
+- Reason for meeting:
+- Review period:
+- Previous welfare review:
+
+Opening wording:
+
+"This meeting is to understand your current welfare, any work impact, any support or reasonable adjustments needed, and the next review point. It is not a disciplinary meeting. We will record what is discussed, what is agreed, and when we will review it."
+
+Discussion questions:
+
+| Area | Questions to ask | Record |
+|---|---|---|
+| Current welfare | How are you feeling at the moment? Has anything changed recently? | [brief factual note] |
+| Work impact | Is anything affecting your wellbeing, attendance, or ability to work safely? | [brief factual note] |
+| Role and rota | Are any duties, shift patterns, workload, travel, or workplace conditions making things harder? | [brief factual note] |
+| Medical advice | Has a GP, specialist, occupational health adviser, or other clinician suggested changes that could help at work? | [brief factual note] |
+| Adjustments | Are there changes to duties, hours, breaks, equipment, supervision, rota pattern, or phased return that may help? | [brief factual note] |
+| Work-related cause | Is the issue linked to work, including stress, workload, conflict, injury, training, supervision, or the working environment? | [brief factual note] |
+| Support | What support would help? Consider occupational health, counselling, employee assistance, signposting, supervision, or temporary changes. | [brief factual note] |
+| Consent | Is there anything the employee agrees can be shared with colleagues, and anything that must stay private? | [brief factual note] |
+| Care-sector safety | Is there any impact on safe care, medication, moving and handling, lone working, driving, night work, or other duties that needs a risk assessment? | [brief factual note] |
+| Review | What action should be agreed today, who will do it, and when should it be reviewed? | [brief factual note] |
+
+Manager checks before agreeing next steps:
+
+| Check | Yes/No | Notes or action |
+|---|---|---|
+| Possible disability or long-term health condition | [yes/no] | [details] |
+| Pregnancy, maternity, menopause, or related health issue | [yes/no] | [details] |
+| Mental health, stress, trauma, or work-related pressure | [yes/no] | [details] |
+| Work injury, moving and handling issue, or infection control concern | [yes/no] | [details] |
+| Caring responsibilities or dependants issue | [yes/no] | [details] |
+| Grievance, whistleblowing, safeguarding, bullying, or conflict raised | [yes/no] | [details] |
+| Occupational health, GP advice, or medical evidence needed | [yes/no] | [details] |
+| Temporary risk assessment or change to duties needed | [yes/no] | [details] |
+
+Agreed action table:
+
+| Agreed action or adjustment | Owner | Start date | Review date | Completed |
+|---|---|---|---|---|
+| [action] | [person] | [date] | [date] | [yes/no] |
+
+Outcome options:
+- no further action
+- support plan
+- temporary adjustment
+- occupational health referral
+- further welfare review
+- capability review where health affects ability to meet the role
+- fact-finding only where facts suggest conduct, dishonesty, unauthorised absence, safeguarding, or another formal concern
+
+Safety wording:
+
+"Do not ask for more medical detail than is needed to understand work impact and support. If the issue may involve disability, pregnancy, mental health, work-related stress, injury, safeguarding, grievance, whistleblowing, dismissal risk, or complex medical evidence, check current Acas, GOV.UK, internal policy, contract wording, occupational health evidence, and legal advice where needed."
+
 ## Record Of Conversation Template
 
 Title: Record of conversation
