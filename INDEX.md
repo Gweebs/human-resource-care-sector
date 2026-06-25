@@ -35,6 +35,7 @@ Research pack covering the full disciplinary journey from welfare meeting to dis
 | `process/manager-faq.md` | Manager-facing FAQ |
 | `process/app-manager-summary.md` | Short summary for managers/app use |
 | `process/absence-management-and-bradford-factor.md` | Absence review guidance using the Bradford Factor as a review prompt, not a disciplinary trigger |
+| `templates/welfare-meeting-record.md` | Supportive welfare meeting record template |
 | `templates/policy-template-formal.md` | Formal disciplinary policy template |
 | `templates/policy-template.md` | Summary pointer to the formal template |
 | `care-sector/care-sector-master-brief.md` | Care-sector master brief |
@@ -54,6 +55,7 @@ Research pack covering the full disciplinary journey from welfare meeting to dis
 | `sources/skills-for-care-managing-people.md` | Skills for Care source note for supervision, safer employment, and identifying concerns |
 | `skills/care-sector-hr-disciplinary/SKILL.md` | Reusable Codex skill entry point |
 | `skills/care-sector-hr-disciplinary/references/` | Skill reference files |
+| `VERSION.md` | Current repository version and change notes |
 
 ## Care-sector source emphasis
 The care-sector sections and files should be read alongside:
