@@ -36,6 +36,37 @@ If it is a skills gap, training need, health issue, or genuine inability, it is 
 
 For repeated short-term absence, a Bradford Factor score may be used as an absence review prompt. It should not automatically trigger disciplinary action. Check welfare, health, disability, pregnancy, mental health, caring responsibilities, work-related causes, reasonable adjustments, and whether the employee followed the absence reporting procedure before deciding the route.
 
+## Welfare Meeting Record
+
+A welfare meeting record is a supportive HR record. It is not a disciplinary sanction.
+
+Use it where the concern appears to involve:
+- health, stress, or mental health
+- sickness absence or return to work support
+- disability, pregnancy, menopause, or a long-term condition
+- caring responsibilities or personal difficulty
+- work-related pressure, injury, workload, rota fit, conflict, or training need
+- reasonable adjustments or temporary changes to duties
+- safe care impact that needs a risk assessment
+
+Record:
+- date, time, location, and people present
+- reason for the meeting
+- employee explanation
+- work impact
+- health, welfare, equality, or caring issue raised
+- work-related cause raised
+- support or adjustments considered
+- occupational health or medical advice needed
+- care-sector safety impact, including medication, moving and handling, lone working, driving, night work, and resident safety
+- agreed action, owner, review date, and outcome
+
+Suggested wording:
+
+"This meeting is to understand your current welfare, any work impact, any support or reasonable adjustments needed, and the next review point. It is not a disciplinary meeting. We will record what is discussed, what is agreed, and when we will review it."
+
+Move away from the welfare route only where the facts show another route is needed, such as safeguarding, grievance, whistleblowing, capability, fact-finding, or conduct.
+
 ## Record Of Conversation
 
 A record of conversation is an early management record. It is not a formal disciplinary sanction.
