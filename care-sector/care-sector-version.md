@@ -23,6 +23,7 @@ This version adapts the disciplinary process for care homes, domiciliary care, s
 
 ## Process emphasis
 - use welfare meetings early where the issue is minor and supportable
+- record welfare meetings clearly where the issue involves health, stress, absence, disability, pregnancy, mental health, caring responsibilities, work impact, reasonable adjustments, or safe care impact
 - use regular supervision to discuss performance, values, behaviour, wellbeing, safeguarding, and conduct
 - record low-level concerns and patterns early, including "nagging doubts"
 - escalate promptly where safety, dignity, or safeguarding are affected
