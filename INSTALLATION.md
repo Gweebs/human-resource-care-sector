@@ -24,6 +24,7 @@ Good starting files:
 |---|---|
 | Full process guidance | `process/master-brief.md`, `process/process-map.md`, `process/decision-tree.md` |
 | Care-sector guidance | `care-sector/care-sector-master-brief.md`, `care-sector/care-sector-version.md` |
+| Welfare meeting record | `templates/welfare-meeting-record.md`, `process/absence-management-and-bradford-factor.md` |
 | Investigation support | `care-sector/care-sector-investigations-guide.md`, `process/checklist.md` |
 | Policy drafting | `templates/policy-template-formal.md`, `handbook/handbook-integration-notes.md` |
 | Figma guide | `figma/figma-disciplinary-process-guide.md` |
