@@ -1,4 +1,4 @@
 interface:
   display_name: "Care Sector HR Disciplinary"
-  short_description: "Draft UK care-sector disciplinary materials."
-  default_prompt: "Use $care-sector-hr-disciplinary to draft a fair UK care-sector disciplinary process document."
+  short_description: "Draft care-sector HR records and process materials."
+  default_prompt: "Use $care-sector-hr-disciplinary to draft a welfare meeting record or fair UK care-sector HR process document."
